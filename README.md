@@ -3,6 +3,6 @@ O projeto **Rotayad** queria ser uma solução de contorno usando Yad, para o "m
 É possível que o conhecimento nas _[issues]_ venha a ser migrado para wiki do novo projeto.
 
 [Dell Inspiron 7348]: http://www.ubuntu.com/certification/hardware/201408-15442/
-[issues]: issues
+[issues]: ../../issues
 [fork]: /alexandre-mbm/InspironAutoRotateService
 [InspironAutoRotateService]: /jimmy00784/InspironAutoRotateService
